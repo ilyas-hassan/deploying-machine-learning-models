@@ -4,3 +4,7 @@ Accompanying repo for the online course Deployment of Machine Learning Models.
 For the documentation, visit the [course on Udemy](https://www.udemy.com/deployment-of-machine-learning-models/?couponCode=TIDREPO).
 
 This is a trial.
+
+
+This edit should feature only on the new branch. (develop). 
+
